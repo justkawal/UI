@@ -1,0 +1,13 @@
+analyzer:
+  errors:
+    constant_identifier_names: ignore
+    deprecated_member_use: ignore
+    library_private_types_in_public_api: ignore
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    use_super_parameters: false
+    prefer_const_constructors: false
+    prefer_const_literals_to_create_immutables: false
+

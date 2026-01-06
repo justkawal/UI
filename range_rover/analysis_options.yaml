@@ -1,0 +1,7 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    use_super_parameters: false
+    prefer_const_literals_to_create_immutables: false
+    prefer_const_constructors: false

@@ -1,0 +1,6 @@
+[submodule "furniture_store"]
+	path = furniture_store
+	url = https://github.com/justkawal/furniture_store
+[submodule "architect_ui"]
+	path = architect_ui
+	url = https://github.com/justkawal/architect_ui
